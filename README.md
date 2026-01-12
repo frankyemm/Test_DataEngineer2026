@@ -127,5 +127,8 @@ Para llevar esta solución a un nivel productivo y procesar miles de documentos 
     *   **Amazon CloudWatch**: Centralización de logs de aplicación y métricas de infraestructura.
     *   **AWS X-Ray**: Trazabilidad distribuida para detectar cuellos de botella entre servicios.
 
+
+![Arquitectura AWS](flujo_datos.drawio.svg)
+
 ---
 *Desarrollado para el Test Técnico de Data Engineer - 2026*
